@@ -1,0 +1,2 @@
+L'applicazione è pensata per l'organizzazione di partite di calcio a 5 tra utenti. Nella home si elencano gli eventi che si tengono nei dintorni dell'utente, che potrà inoltre creare una nuova partita stabilendo un luogo, una data e un orario desiderati, oltre a dare la propria adesione ad eventi già creati da altri utenti. Gli eventi potranno essere filtrati in base alle proprie preferenze (es. luogo, data e orario). 
+L'applicazione è orientata a giocatori amatoriali di qualsiasi età.
