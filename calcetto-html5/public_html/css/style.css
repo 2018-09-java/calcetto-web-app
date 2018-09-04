@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4-set-2018, 11.47.59
+    Author     : Valentino
+*/
+
+* { 
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+.site-heading {
+    
+    font-size: 16pt;
+    text-align: center;
+    
+}
+.login {
+    
+    font-size: 10pt;
+    text-align: center;
+    padding: 25px;
+}
+.panel {
+    
+    display: table;
+    width: 100%;
+}
+
+.box-riga {
+    
+    display: table-row;
+    
+}
+
+.box-panel-cell {
+    
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 30px;
+}
+
+.struttura-logo {
+    
+    width: 100px;
+}
+
