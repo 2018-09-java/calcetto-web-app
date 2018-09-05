@@ -29,6 +29,7 @@ and open the template in the editor.
     
     display: table;
     width: 100%;
+    background-color: lightblue;
 }
 
 .box-riga {
@@ -49,3 +50,4 @@ and open the template in the editor.
     width: 100px;
 }
 
+.partita {}
